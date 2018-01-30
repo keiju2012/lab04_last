@@ -1,0 +1,23 @@
+{
+  "name": "lab04_last",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keiju2012/lab04_last.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keiju2012/lab04_last/issues"
+  },
+  "homepage": "https://github.com/keiju2012/lab04_last#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
